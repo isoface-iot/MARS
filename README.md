@@ -7,7 +7,7 @@ MARS是執行在Linux下的商業軟體應用伺服器，包括資料庫存取�
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 ## MARS 特色
 
